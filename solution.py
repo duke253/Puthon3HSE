@@ -1,1 +1,1 @@
-print('A' * 100, sep = '')
+print('A' * 100, sep='')
