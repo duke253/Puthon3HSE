@@ -1,6 +1,4 @@
 a = int(input())
 b = int(input())
-print(a // b)
-print(b // a)
 m = ((a // b) * a + (b // a) * b) // (a // b + b // a)
 print(m)
